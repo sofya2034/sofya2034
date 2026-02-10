@@ -141,6 +141,8 @@
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="300" src="https://raw.githubusercontent.com/sofya2034/sofya2034/refs/heads/main/0200ea9b8a8.png" /></td>
-    <td><img width="300" src="" /></td>
+    <td><img width="300" src="https://raw.githubusercontent.com/sofya2034/sofya2034/refs/heads/main/0a83998def6.png" /></td>
+    <td><img width="300" src="https://raw.githubusercontent.com/sofya2034/sofya2034/refs/heads/main/0caa8f52def.png" /></td>
+    <td><img width="300" src="https://raw.githubusercontent.com/sofya2034/sofya2034/refs/heads/main/0d0f476c523.png" /></td>
   </tr>
 </table>
