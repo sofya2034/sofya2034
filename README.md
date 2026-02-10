@@ -69,6 +69,7 @@
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_github.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_vscode.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_python.png" /></td>
+     <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" /></td>
   </tr>
   <tr align="center">
     <td>Cypress</td>
@@ -78,6 +79,7 @@
     <td>GitHub</td>
     <td>VS Code</td>
     <td>Python</td>
+    <td>Siblime</td>
   </tr>
 </table>
 
