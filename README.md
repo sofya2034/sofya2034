@@ -16,7 +16,7 @@
 ### Тестирование API и интеграций 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_postman.png" /> </td>
+    <td><img width="48" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" /> </td>
     <td> <img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_rest.png" /></td>
     <td> <img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_soap.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_apachekafka.png" /> </td>
