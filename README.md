@@ -13,7 +13,7 @@
 
 ### Если в вашей компании есть **подходящая вакансия**, буду рада обсудить детали  
 - <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [sofya2034@mail.ru](mailto:sofya2034@mail.ru)
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@ksophiexs]([https://t.me/KirBelyakov](https://t.me/ksophiexs))
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@ksophiexs](https://t.me/ksophiexs)
 
 ### Тестирование API и интеграций 
 <table class="table" border="0" width="100%">
