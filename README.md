@@ -28,7 +28,6 @@
     <td>Soap</td>
     <td>Kafka</td>
     <td>Swagger</td>
-    <td>Docker</td>
   </tr>
 </table>
 
